@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Percolator Regular';
+    src: url('fonts/PERCREG.eot');
+    src: url('fonts/PERCREG.eot?#iefix') format('embedded-opentype'),
+         url('fonts/PERCREG.woff2') format('woff2'),
+         url('fonts/PERCREG.woff') format('woff'),
+         url('fonts/PERCREG.ttf')  format('truetype'),
+         url('fonts/PERCREG.svg#Percolator Regular') format('svg');
+}
